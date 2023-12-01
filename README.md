@@ -18,6 +18,6 @@ This website is built for testing and educational purposes and is not intended t
 
 [Mustafa](https://github.com/mustafakemaltoprak) LinkedIn: https://www.linkedin.com/in/mustafakemaltoprak/
 <br>
-[Busayo](https://github.com/damayor12) LinkedIn: https://www.linkedin.com/in/obembe-busayo/
+[Busayo](https://github.com/damayor12) LinkedIn: https://www.linkedin.com/in/o-busayo/
 <br>
 [Daniel](https://github.com/d4-1601) LinkedIn: https://www.linkedin.com/in/daniel-sousa-31b34421/
